@@ -24,7 +24,7 @@
     "@uma/common": "^2.19.0",
     "@uma/contracts-node": "^0.3.1",
     "@uma/financial-templates-lib": "^2.31.0",
-    "@uma/sdk": "^0.25.0",
+    "@uma/sdk": "^0.29.3",
     "async": "^3.2.4",
     "bluebird": "^3.7.2",
     "hardhat": "^2.9.0",
